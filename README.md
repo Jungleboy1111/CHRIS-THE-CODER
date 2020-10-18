@@ -1,2 +1,13 @@
 # CHRIS-THE-CODER
-Ask Chris The Time And Do Simple Maths
+[Ask Chris The Time And Do Simple Maths] 
+
+I  AM  CHRIS  THE  CODER!!! 
+
+ASK ME ANYTHING 
+
+
+TIME 
+MATHS
+WEATHER
+AND MANY MORE
+
