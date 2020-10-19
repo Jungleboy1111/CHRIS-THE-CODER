@@ -1,4 +1,4 @@
-# CHRIS-THE-CODER
+#!/bin/sh
 [Ask Chris The Time And Do Simple Maths] 
 
 I  AM  CHRIS  THE  CODER!!! 
@@ -11,3 +11,8 @@ MATHS
 WEATHER
 AND MANY MORE
 
+echo "what is your name?"
+read name
+echo "How do you do, $name?"
+read remark
+echo "I am $remark too!"
